@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<div style="background-color:#32323b;">
-    <center><h1 style="color:white;">Converter:</h1></center>
+    <h1 style="color:white;">Converter:</h1>
 </div>
 	
 	<script src="exchange.js"></script>
